@@ -1,5 +1,8 @@
-# STAGE 2024
+# STAGE 2024 (2nd Place)
 Code for Structural-Functional Transition in Glaucoma Assessment Challenge 2024 (STAGE 2024)
+<p align="center">
+    <img src="imgs/Award.png"/> <br />
+</p>
 
 ## Preparing
 1. Clone this repo:
